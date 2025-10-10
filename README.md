@@ -4,6 +4,9 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-Any-green)
 ![Tests](https://img.shields.io/badge/Automated%20Tests-Yes-brightgreen)
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+![Stars](https://img.shields.io/github/stars/hrosicka/robot-framework-examples)
+![Last Commit](https://img.shields.io/github/last-commit/hrosicka/robot-framework-examples)
 
 **A sample repository containing Robot Framework tests for Python classes.**  
 This repository serves as an example of automated testing for basic mathematical operations, solving quadratic equations, and working with square geometry.
