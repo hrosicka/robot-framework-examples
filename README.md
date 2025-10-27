@@ -65,9 +65,13 @@ The results will be available in the `log.html` and `report.html` files generate
 
 ### QuadraticEquation.py & BasicTestQuadraticEquation.robot
 - **Discriminant, Roots** – Calculation of the discriminant and solving quadratic equations, including complex roots.
+  
+---
+
+## 👩‍💻 Author
+Lovingly crafted by [Hanka Robovska](https://github.com/hrosicka) 👩‍🔬
 
 ---
 
 ## 📝 License
-
 MIT – Free to use, modify, and distribute as needed.
