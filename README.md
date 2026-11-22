@@ -1,12 +1,36 @@
 # Robot Framework Examples
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-Any-green)
-![Tests](https://img.shields.io/badge/Automated%20Tests-Yes-brightgreen)
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
-![Stars](https://img.shields.io/github/stars/hrosicka/robot-framework-examples)
-![Last Commit](https://img.shields.io/github/last-commit/hrosicka/robot-framework-examples)
+<div align="center">
+
+  <a href="https://github.com/hrosicka/robot-framework-examples/stargazers">
+    <img src="https://img.shields.io/github/stars/hrosicka/robot-framework-examples?style=for-the-badge&color=4F8EF7&logo=starship&logoColor=white" alt="Stars" />
+  </a>
+  <a href="https://github.com/hrosicka/robot-framework-examples/network/members">
+    <img src="https://img.shields.io/github/forks/hrosicka/robot-framework-examples?style=for-the-badge&color=4F8EF7&logo=git&logoColor=white" alt="Forks" />
+  </a>
+  <a href="https://github.com/hrosicka/robot-framework-examples/commits/master">
+    <img src="https://img.shields.io/github/last-commit/hrosicka/robot-framework-examples?style=for-the-badge&color=6366F1&logo=githubactions&logoColor=white" alt="Last Commit" />
+  </a>
+  <a href="https://github.com/hrosicka/robot-framework-examples/issues">
+    <img src="https://img.shields.io/github/issues/hrosicka/robot-framework-examples?style=for-the-badge&color=F59E0B&logo=github&logoColor=white" alt="Issues" />
+  </a>
+  <br/>
+
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.7%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.7+" />
+  </a>
+  <a href="https://robotframework.org/">
+    <img src="https://img.shields.io/badge/Robot%20Framework-Any-00C0B5?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
+  </a>
+  <img src="https://img.shields.io/badge/Automated%20Tests-Yes-22C55E?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automated Tests: Yes" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/Made%20With-Love-EC4899?style=for-the-badge&logo=sparkles&logoColor=white" alt="Made with Love" />
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License: MIT" />
+  </a>
+
+</div>
 
 **A sample repository containing Robot Framework tests for Python classes.**  
 This repository serves as an example of automated testing for basic mathematical operations, solving quadratic equations, and working with square geometry.
